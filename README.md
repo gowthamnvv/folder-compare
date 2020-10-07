@@ -1,9 +1,9 @@
 # folder-compare
 Batch script to compare folders with PDF and Excel files
 
-Leverages the excel comparision from https://github.com/na-ka-na/ExcelCompare/blob/master/scripts/excel_cmp.bat
+Leverages the excel comparison from https://github.com/na-ka-na/ExcelCompare/blob/master/scripts/excel_cmp.bat
 
-PDF comparision is done by binary comparision of Beyond Compare.
+PDF comparison is done by binary comparison of Beyond Compare.
 
 Dependencies
 Beyond Compare should be installed and available (folder included in system path)
